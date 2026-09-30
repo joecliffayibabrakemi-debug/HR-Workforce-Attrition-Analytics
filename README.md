@@ -63,28 +63,32 @@ The tables were connected through `EmployeeID`, with Department and Branch used 
 ## Data Modeling Structure
 
 
-<img width="1920" height="832" alt="HR-Data Modeling" src="https://github.com/user-attachments/assets/8f12f8e6-839d-44ab-a604-37a930fa3419" />
+<img width="1920" height="832" alt="HR-Data Modeling" src="https://github.com/user-attachments/assets/cdeabd9f-8fca-4946-9afb-bd5e80a958e6" />
+
 
 
 ### Executive Overview
 
+<img width="1349" height="752" alt="HR-Executive" src="https://github.com/user-attachments/assets/052b1b64-2c1a-4de1-8945-9e30415f8120" />
 
-<img width="1349" height="752" alt="HR-Executive" src="https://github.com/user-attachments/assets/2cf3b84b-60be-4245-854f-4476988fa1a7" />
 
 ### Attrition Analysis
 
-<img width="1349" height="753" alt="HR-Attrition" src="https://github.com/user-attachments/assets/23d1872d-0c3f-443a-bf0a-a3541b78e55b" />
+<img width="1349" height="753" alt="HR-Attrition" src="https://github.com/user-attachments/assets/2dcd8b92-6b52-49cb-a810-cc6e5972093c" />
+
 
 
 ### Talent Acquisition
 
 
-<img width="1345" height="747" alt="HR-Talent" src="https://github.com/user-attachments/assets/089d7d45-69e7-4ed5-93fc-735eb6b68318" />
+<img width="1345" height="747" alt="HR-Talent" src="https://github.com/user-attachments/assets/c4af95c9-19f9-4e3a-9b66-65708aa0a3a2" />
+
 
 
 ### Branch Comparison
 
-<img width="1345" height="749" alt="HR-Branch" src="https://github.com/user-attachments/assets/20a36b9d-69ae-4e81-9a3d-c634d8fcdc1c" />
+
+<img width="1345" height="749" alt="HR-Branch" src="https://github.com/user-attachments/assets/314f5081-9090-4204-b58c-0729eb0f45b6" />
 
 
 
